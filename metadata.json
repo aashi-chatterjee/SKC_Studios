@@ -1,0 +1,6 @@
+{
+  "name": "SKC STUDIOS",
+  "description": "An architectural interior design practice rooted in space, proportion, and structural clarity. Contemplative private residences, workplace environments, and bespoke millwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
